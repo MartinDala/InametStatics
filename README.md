@@ -10,8 +10,9 @@ Este projeto usa a seguinte tecnologia:
 
 
 ### Recursos de Terceiros (API)
-![API de Previsão de Clima](https://angoprovsapi.herokuapp.com/api/v1/previsao/hu%C3%ADla)
-![API criada por Gentil Pinto](https://github.com/GentilPinto/provincias_de_angola_api)
+
+- [API de Previsão de Clima](https://angoprovsapi.herokuapp.com/api/v1/previsao/hu%C3%ADla)
+- [API criada por Gentil Pinto](https://github.com/GentilPinto/provincias_de_angola_api)
 
 ### IDE
 * Visual Studio Code
