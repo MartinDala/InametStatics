@@ -1,16 +1,24 @@
-# inametstatics
+# App InametStatics -App para Mostrar Previsão de Clima das Provincias de Angola
+Este projecto mostra dados estatísticos meteorologico como a temperatura de todas provincias de Angola
 
-A new Flutter project.
+![Imagem 1](https://github.com/MartinDala/InametStatics/blob/main/Screenshot_1602431223.png)
+![Imagem 2](https://github.com/MartinDala/InametStatics/blob/main/Screenshot_1602431265.png)
 
-## Getting Started
+## Tecnologia
+Este projeto usa a seguinte tecnologia:
+* Flutter/Dart
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Recursos de Terceiros (API)
+![API de Previsão de Clima](https://angoprovsapi.herokuapp.com/api/v1/previsao/hu%C3%ADla)
+![API criada por Gentil Pinto](https://github.com/GentilPinto/provincias_de_angola_api)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### IDE
+* Visual Studio Code
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Branches
+Inicialmente possui uma única branch, a master, porém se haver necessidade de ampliar o projecto, com certeza terá outras. 
+
+## Onde poderás Contribuir
+* As imagens não são mostradas de acordo a temperatura ou grau de presipitação, voce pode gerar imagens dinamicas 
+* Esteja a vontande em contribuir!
