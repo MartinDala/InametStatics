@@ -1,8 +1,7 @@
 # App InametStatics -App para Mostrar Previsão de Clima das Provincias de Angola
 Este projecto mostra dados estatísticos meteorologico como a temperatura de todas provincias de Angola
 
-|![Imagem 1](https://github.com/MartinDala/InametStatics/blob/main/Screenshot_1602431223.png)|
-![Imagem 2](https://github.com/MartinDala/InametStatics/blob/main/Screenshot_1602431265.png)|
+
 
 | <img src="https://github.com/MartinDala/InametStatics/blob/main/Screenshot_1602431223.png" width="250"> | <img src="https://github.com/MartinDala/InametStatics/blob/main/Screenshot_1602431265.png" width="250">|
 
