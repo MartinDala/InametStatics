@@ -4,6 +4,8 @@ Este projecto mostra dados estatísticos meteorologico como a temperatura de tod
 |![Imagem 1](https://github.com/MartinDala/InametStatics/blob/main/Screenshot_1602431223.png)|
 ![Imagem 2](https://github.com/MartinDala/InametStatics/blob/main/Screenshot_1602431265.png)|
 
+| <img src="https://github.com/MartinDala/InametStatics/blob/main/Screenshot_1602431223.png" width="250"> | <img src="https://github.com/MartinDala/InametStatics/blob/main/Screenshot_1602431265.png" width="250">|
+
 ## Tecnologia
 Este projeto usa a seguinte tecnologia:
 * Flutter/Dart
