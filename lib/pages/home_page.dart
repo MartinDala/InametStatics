@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import "package:flutter/material.dart";
 import 'package:http/http.dart' as http;
-import 'package:inametstatics/ui/statics.dart';
+import 'package:inametstatics/pages/statics_page.dart';
 
 class HomePage extends StatefulWidget {
   @override
