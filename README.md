@@ -22,5 +22,5 @@ Este projeto usa a seguinte tecnologia:
 Inicialmente possui uma única branch, a master, porém se haver necessidade de ampliar o projecto, com certeza terá outras. 
 
 ## Onde poderás Contribuir
-* As imagens não são mostradas de acordo a temperatura ou grau de presipitação, voce pode gerar imagens dinamicas 
 * Esteja a vontande em contribuir!
+
