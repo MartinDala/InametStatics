@@ -1,16 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:inametstatics/ui/homepage.dart';
+import 'package:inametstatics/pages/splash_page.dart';
 
 void main() {
-  runApp(Inamet());
-}
-
-class Inamet extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: "Inamet Statics",
-      home: HomePage(),
-    );
-  }
+  runApp(
+    MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: SplashPage(),
+    ),
+  );
 }
